@@ -40,11 +40,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahimdj071&show_icons=true&theme=tokyonight" alt="Fahim's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=al-redowan&show_icons=true&theme=tokyonight" alt="Fahim's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahimdj071&theme=tokyonight" alt="Fahim's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=al-redowan&theme=tokyonight" alt="Fahim's GitHub Streak" />
 </p>
 
 ---
